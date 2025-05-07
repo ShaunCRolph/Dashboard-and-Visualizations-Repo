@@ -11,4 +11,4 @@ A gallery of dashboards and visual analytics I’ve built for industry, governme
 | 2017 | **OCC Hotel Market Brief Visuals** | One‑page market brief predicting a softening U.S. lodging cycle: charts travel spend vs. room supply, flags CMBS‑refinance risk, and calls a peak in occupancy/pricing. | [`/occ_hotel_brief_viz.pdf`](./occ_hotel_brief_viz.pdf) |
 | 2017 | **Hasbro Global Supply‑Chain Dashboard** | Competition‑winning Bryant University capstone: Sankey flows & geo heat‑maps reveal cost, lead‑time, and risk across Hasbro’s worldwide logistics network. | [`/hasbro_supply_chain/`](./hasbro_supply_chain/) |
 
-Questions? Open an issue or message me on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/).  Enjoy exploring!
+Questions? Message me on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/).  Enjoy exploring!
