@@ -4,7 +4,7 @@ A gallery of dashboards and visual analytics I’ve built for industry, governme
 
 | Year | Title | Focus | Link |
 |------|-------|-------|------|
-| 2025 | **Grant Project Progress Report Power Application** | Map and filterable table of Resilient Food Systems Infrastructure grants; shows funding by state, project type & supply‑chain segment. | [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/) |
+| 2025 | **Grant Project Performance Report Power Application** | Power App example of how grant specialists and leadership can input, track, manage, store, and report grant project performance information. | [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/) |
 | 2024 | **Interactive LAMP Navigator** | Multi‑tab Tableau app exploring USDA LAMP grant inputs, activities & project outcomes (FMPP, LFPP, RFSP). | [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/) |
 | 2024 | **Capstone Applicatoion Bias Dashboard** | Tests regional bias in LAMP grant approvals; combines logistic‑regression outputs with interactive visuals of acceptance rates. | [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/) |
 | 2023 | **Data Schema Neural Network Map** | Dynamic network graph that lets analysts explore a large relational schema—tables as nodes, joins as weighted edges—with hover cards for key variables. | [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/) |
